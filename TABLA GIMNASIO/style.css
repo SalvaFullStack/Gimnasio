@@ -1,0 +1,23 @@
+table {
+    color: black;
+    border: solid 1px black;
+
+}
+
+th{ border: solid 1px black;
+
+}
+tr {
+    border: solid 1px black;
+}
+
+.title{
+
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto{
+
+    width: 400px; height: 600px;
+}
